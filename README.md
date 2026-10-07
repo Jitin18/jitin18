@@ -23,7 +23,6 @@ I spent 3 years building enterprise-scale data pipelines, and now I build AI sys
 
 ## 📊 GitHub stats
 
-![Jitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jitin18&show_icons=true&theme=default&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jitin18&layout=compact&hide_border=true)
 
 ## 📫 Reach me
