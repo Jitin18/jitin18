@@ -16,7 +16,7 @@ I spent 3 years building enterprise-scale data pipelines, and now I build AI sys
 
 ## 🛠️ Tech stack
 
-**AI/ML:** RAG, LangChain, LangGraph, OpenAI & Gemini APIs, vector databases, embeddings, model evaluation (RAGAS, LLM-as-a-Judge), XGBoost, Prophet
+**AI/ML:** RAG, LangChain, LangGraph, OpenAI & Gemini APIs, vector databases, embeddings, model evaluation (RAGAS, LLM-as-a-Judge, LangSmith), XGBoost, Prophet
 **Data Engineering:** PySpark, Apache Spark, Databricks, Azure (Data Lake, Data Factory), Delta Lake, ETL/ELT, data modeling (SCD Type 2, star schemas)
 **Languages:** Python, SQL, Scala, JavaScript
 **Analytics:** Tableau, Power BI, A/B testing, statistical analysis
@@ -31,4 +31,4 @@ I spent 3 years building enterprise-scale data pipelines, and now I build AI sys
 - 💼 LinkedIn: www.linkedin.com/in/jitin-pranav-kolathur
 
 ---
-*Open to Data Science, ML Engineering, and GenAI roles — graduating June 2026.*
+*Open to Forward Deployed Engineering, Data, ML Engineering, and GenAI roles — graduating June 2026.*
