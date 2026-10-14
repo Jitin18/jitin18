@@ -167,6 +167,6 @@ I'm particularly interested in roles where I can combine **building + problem so
 
 📧 **Email:** jitin2300@gmail.com  
 💼 **LinkedIn:** www.linkedin.com/in/jitin-pranav-kolathur  
-🌐 **Portfolio:** jitinpranavkolathur.lovable.app
+🌐 **Portfolio:** https://jitinpranavkolathur.lovable.app
 
 If you're building something interesting around **Agentic AI, enterprise data, or applied AI systems**, I'd love to connect.
