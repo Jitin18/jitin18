@@ -14,7 +14,7 @@ I enjoy working where **engineering meets the customer**: understanding an ambig
 
 ## 🚀 What I've Been Building
 
-### 🎙️ Cadence — Real-Time Voice AI Agent
+### 🎙️ CallWright — Real-Time Voice AI Agent
 
 A real-time voice AI system that turns structured contact-center workflows into natural conversations.
 
